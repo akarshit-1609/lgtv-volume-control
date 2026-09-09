@@ -1,0 +1,12 @@
+__pycache__
+.venv
+dist
+
+.vscode
+.idea
+
+.DS_Store
+
+
+# Automatic generate by python script
+config.json
