@@ -2,7 +2,11 @@
 
 <div align="center">
 
-![Logo](icons/icon_original.png)
+<picture>
+  <source media="(max-width: 600px)" srcset="icons/icon_original.png">
+  <source media="(max-width: 1200px)" srcset="icons/icon_256x256.png">
+  <img src="icons/icon_256x256.png" alt="LG TV Volume Control">
+</picture>
 
 </div>
 
