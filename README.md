@@ -212,6 +212,16 @@ the application is likely no longer connected to the TV.
 
 ---
 
+## 🐧 Linux Terminal & Shortcut Support
+
+If you also want to control the tv volume using **terminal commands** or **Ubuntu keyboard shortcuts**, see **[linux_daemon.py](linux_daemon.py)** for complete setup and usage details.
+
+The file contains complete setup and usage instructions, including the required commands and configuration details.
+
+ > **Note:** This functionality is currently available **only on Linux**.
+ 
+---
+
 ## Limitations
 
 This application uses the `pywebostv` library to communicate with the LG webOS TV. Therefore, the application's compatibility and functionality are subject to the capabilities and limitations of that library and the LG webOS API.
